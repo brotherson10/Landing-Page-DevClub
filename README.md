@@ -22,7 +22,7 @@ This project is a landing page developed during the **DevClub** course, aiming t
 
 ## 📸 Imagem do projeto | Project Screenshot
 
-![Landing Page DevClub](link-da-imagem.png)  
+https://github.com/brotherson10/Landing-Page-DevClub/blob/main/page%20devclub.png  
 
 ---
 
